@@ -1,7 +1,7 @@
 <h1 align="center">:wave: Hi, I'm Iman</h1>
 <h3 align="center">Python Django Developer</h3>
 <p align="left" dir="auto">I have a bachelor's degree in solid state physics and a master's degree in radiation in medicine. I used to work as a medical physicist in a radiotherapy department. However, my passion for coding brought me to python programming, and Django is my favourite framework.</p>
-<p align="left" dir="auto">I self-studied Python and Django for more than nine months. Rightnow, I have an internship position as Django Developer at CYBERINITIATION!</p>
+<p align="left" dir="auto">I self-studied Python and Django for more than one and half years. Rightnow, I have an internship position as Django Developer at CYBERINITIATION!</p>
 
 <h4 align="left" dir="auto"> keep in touch with me:</h4>
 <p align="left" dir="auto">
